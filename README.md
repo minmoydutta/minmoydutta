@@ -3,8 +3,7 @@
 
 
 
-- 🌱 I’m currently learning **Web development & php**
-
+- 🌱 I’m currently learning **Web Development, PHP & Python**
 - 📫 How to reach me **jrmendelevium@proton.me**
 - 🌐 **[minmoydutta.github.io](https://minmoydutta.github.io)**
 
