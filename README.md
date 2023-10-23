@@ -6,6 +6,7 @@
 - 🌱 I’m currently learning **Web development & php**
 
 - 📫 How to reach me **jrmendelevium@proton.me**
+- 🌐 **[minmoydutta.github.io](https://minmoydutta.github.io)**
 
 <p align="left">
 </p>
