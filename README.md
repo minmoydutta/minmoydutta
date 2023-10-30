@@ -18,4 +18,12 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=minmoydutta&show_icons=true&locale=en" alt="minmoydutta" /></p>
 
-<p><img align="center" src="github-readme-stats.databytedigital.com?user=minmoydutta&" alt="minmoydutta" /></p>
+---
+<div>
+  <h4>⚡️ Current Github Streak</h4>
+  <a href="https://github.com/madhuryadutta">
+    <img src="https://github-readme-stats.databytedigital.com?user=minmoydutta&theme=dark"/>
+  </a>
+</div>
+
+---
