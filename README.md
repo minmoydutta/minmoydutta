@@ -22,7 +22,7 @@
 <div>
   <h4>⚡️ Current Github Streak</h4>
   <a href="https://github.com/madhuryadutta">
-    <img src="https://github-readme-stats.databytedigital.com?user=minmoydutta&theme=dark"/>
+    <img src="https://github-readme-stats.databytedigital.com?user=minmoydutta"/>
   </a>
 </div>
 
